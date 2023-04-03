@@ -98,7 +98,7 @@ const Cart = () => {
               alt="emptyCart"
             />
 
-            <span className="text-xl font-bold">{`Your Cart is empty :(`}</span>
+            <span className="text-xl font-bold">{`Your Cart is empty :( `}</span>
 
             <span className="text-center mt-4">
               Looks like you have not added anything in your cart
